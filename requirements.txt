@@ -1,0 +1,11 @@
+pydantic>=2.5
+openai>=1.30
+tenacity>=8.2
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+PyYAML>=6.0
+scipy>=1.11
+streamlit>=1.35
+sentence-transformers>=2.7
+pytest>=8.0

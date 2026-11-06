@@ -1,0 +1,16 @@
+# Confidential Kuku input pack - never publish
+data/
+*.zip
+eval/promo_clips_selection.csv
+
+# Local caches / secrets
+.cache/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Run outputs are shared separately (Drive), not in the public repo
+outputs/
+scripts/

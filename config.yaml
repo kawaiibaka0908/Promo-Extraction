@@ -1,0 +1,64 @@
+# Promo Finder configuration. Swap models here - no code changes needed.
+
+llm:
+  # Any OpenAI-compatible endpoint works (Gemini, Groq, OpenRouter, OpenAI, a Kuku-provided API...)
+  provider: gemini
+  providers:
+    gemini:
+      base_url: https://generativelanguage.googleapis.com/v1beta/openai/
+      api_key_env: GEMINI_API_KEY
+    groq:
+      base_url: https://api.groq.com/openai/v1
+      api_key_env: GROQ_API_KEY
+    openrouter:
+      base_url: https://openrouter.ai/api/v1
+      api_key_env: OPENROUTER_API_KEY
+    openai:
+      base_url: https://api.openai.com/v1
+      api_key_env: OPENAI_API_KEY
+  models:
+    tagger: gemini-3.5-flash-lite    # Step 2C beat tagging (fast & reliable)
+    refiner: gemini-3.5-flash-lite   # Step 4 refine + write
+    judge: gemma-4-26b-a4b-it        # Step 5 cold-viewer judge (different model family = zero self-bias!)
+    arcs: gemini-3.5-flash-lite      # Step 3B story arcs / montage picking
+  fallbacks:
+    - gemini-3.5-flash-lite
+    - gemma-4-26b-a4b-it
+    - gemini-3.5-flash
+    - gemini-3.6-flash
+  temperature: 0.0
+  max_retries: 4
+  min_seconds_between_calls: 4.2   # < 15 RPM free-tier limit (14.2 RPM)
+  cache_dir: .cache/llm
+
+heat:
+  w_llm: 0.5
+  w_tone: 0.3
+  w_struct: 0.2
+  smooth_window_s: 2.0
+
+tone:
+  enabled: true
+  model: sentence-transformers/all-MiniLM-L6-v2
+  high_anchors: [furious, screaming, horrified, sobbing, enraged, terrified]
+  low_anchors: [calm, gentle, quiet, soft, relaxed, warm]
+
+candidates:
+  min_len_s: 20
+  max_len_s: 60
+  hook_window_s: 3.0
+  anchor_top_pct: 0.15
+  ends_per_anchor: 2
+  overlap_iou: 0.5
+  dead_air_s: 8.0
+
+rank:
+  top_n_refine: 25
+  early_episodes_guarantee: 5
+  max_per_episode_top10: 2
+  w_judge_hook: 0.30
+  w_judge_cliff: 0.30
+  w_standalone: 0.20
+  w_heat: 0.20
+  w_spoiler: 0.10
+  early_ep_bonus: 0.05
