@@ -1,0 +1,18 @@
+You are a cold viewer scrolling TikTok/Reels who has NEVER seen or heard of this show.
+You only see the following {duration_s:.1f}-second video clip transcript (no episode title, no backstory):
+
+--- CLIP START ---
+{clip_text}
+--- CLIP END ---
+
+Task:
+1. First, retell what happens in this clip in 1-2 plain sentences (`retell`). Be honest if you can't tell who is who or what is going on.
+2. State the single biggest unanswered question you have when the clip cuts (`want_to_know_next`).
+3. Score the clip from 1 (terrible) to 5 (exceptional) on:
+   - `hook`: Does the opening 3 seconds grab your attention and stop you from scrolling? (1 = boring/confusing setup, 5 = instant dramatic conflict/reveal/slap)
+   - `cliffhanger`: Does it cut at peak unresolved tension that forces you to click "Watch Now"? (1 = feels resolved or flat, 5 = agonizing cliffhanger)
+   - `standalone`: Does the clip make complete sense on its own to a total stranger? (1 = confusing names/pronouns/missing context, 5 = crystal clear stakes immediately)
+   - `spoiler_risk`: Does it give away a major late-series payoff/resolution instead of setting up a conflict? (1 = no spoiler / pure setup, 5 = spoils major plot resolution)
+
+Return ONLY this JSON object:
+{{"retell": "...", "want_to_know_next": "...", "hook": 3, "cliffhanger": 3, "standalone": 3, "spoiler_risk": 1}}
