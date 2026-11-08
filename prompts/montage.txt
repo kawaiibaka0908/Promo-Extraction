@@ -1,0 +1,18 @@
+You are a senior promo editor assembling a 20-60 second multi-segment montage promo for a vertical microdrama.
+
+Story Arc: {arc_title} (Episodes {episodes})
+
+Below is the shortlist of clean, timestamped micro-clips extracted from these episodes.
+Each micro-clip has a `clip_id`, episode number, start-end seconds, duration, speakers, and script transcript:
+
+{clips_text}
+
+Rules for a valid montage promo:
+1. Pick 2 or 3 `clip_id`s in ascending story order.
+2. The SUM of their durations MUST be between 20.0 and 60.0 seconds.
+3. The first clip MUST open on an immediate scroll-stopping hook (confrontation, betrayal, physical action, or shocking line).
+4. The final clip MUST end on an unresolved cliffhanger that makes a cold viewer desperate to watch next.
+5. Together, the 2-3 clips must tell ONE clear mini-story to a stranger who has never seen the show.
+
+Return ONLY this JSON object:
+{{"clip_ids": ["...", "..."], "hook": "1 short sentence describing the opening hook", "cliffhanger": "1 short sentence describing the final cut point", "why": "1 crisp line on why this montage works as a standalone ad"}}

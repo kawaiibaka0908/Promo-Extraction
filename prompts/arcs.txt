@@ -1,0 +1,21 @@
+You are a senior story editor for vertical microdrama series (ReelShort / DramaBox style).
+Below are the episode numbers, loglines, and continuity notes for all episodes of a show:
+
+{episodes_summary}
+
+Task:
+Identify 6 to 8 high-stakes multi-episode story arcs where joining 2 or 3 short moments across episodes (within a 2-4 episode span) creates an irresistible 20-60 second promo trailer (Setup -> Escalation -> Unresolved Cliffhanger).
+
+Examples of great microdrama promo arcs:
+- Public betrayal or humiliation -> unexpected protector steps in -> shocking proposal or power turn
+- Villain sets a cruel trap or impossible demand -> protagonist endures it -> dramatic confrontation
+- Poisoning or secret plot discovered -> false accusation / arrest -> ticking-clock rescue vow
+- Hidden royal/noble identity teased -> confrontation with usurpers -> shocking reveal
+
+For each arc provide:
+- `arc_id`: "ARC_01", "ARC_02", ...
+- `title`: short 4-7 word arc title
+- `episodes`: list of 2 to 3 episode numbers (integers in ascending order) that contain the tightest consecutive setup + escalation + cliffhanger beats
+
+Return ONLY this JSON object:
+{{"arcs": [{{"arc_id": "ARC_01", "title": "...", "episodes": [1, 3]}}]}}
