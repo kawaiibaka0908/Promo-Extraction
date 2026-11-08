@@ -1,0 +1,58 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: Maya storms back into the gala wearing couture on Julian's arm and halts Marcus and Victoria's engagement toast with live DNA and patent proof on the giant screen.
+CONTINUITY NOTES: Direct continuation of Episode 2 proxy signing. Climax of the opening gala arc.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. PENTHOUSE BALLROOM – NIGHT
+Scene start: 00:00.00
+Scene end: 00:50.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Wide shot as the ballroom doors crash open and Maya strides in beside Julian Vance.
+
+**VICTORIA (Enraged, Shrieking):**
+Start: (00:03.00) | End: (00:07.50)
+“Who let the help back in here?! Guards, throw this lunatic onto the street!”
+
+**MAYA (Calm, Deadly):**
+Start: (00:07.50) | End: (00:12.50)
+“Before you call security, Victoria, look at the screen behind you.”
+
+**ACTION:**
+Start: (00:12.50) | End: (00:18.00)
+The giant LED wall flashes with Maya’s marriage certificate to Marcus and the original source-code patent.
+
+**MARCUS (Panicked, Pale):**
+Start: (00:18.00) | End: (00:22.50)
+“Turn that projector off! Cut the power to the stage right now!”
+
+**JULIAN (Authoritative, Mocking):**
+Start: (00:22.50) | End: (00:28.00)
+“Too late, Marcus. Every board member in this room just voted to freeze your shares.”
+
+**VICTORIA (Horrified, Turning on Marcus):**
+Start: (00:28.00) | End: (00:33.50)
+“You told me you founded this empire! You’re a fraud living off a waitress’s patent?!”
+
+**MAYA (Steely, Unyielding):**
+Start: (00:33.50) | End: (00:40.00)
+“Keep the dress, Victoria. I’m only here for my company—and to ask Marcus where he hid my son.”
+
+**MARCUS (Desperate, Cornered):**
+Start: (00:40.00) | End: (00:46.00)
+“If you take one step closer to my accounts, Maya, you will never see the boy again!”
+
+**SOUND FX:**
+Start: (00:46.00) | End: (00:49.00)
+Thunderous orchestral sting peaks on a cliffhanger.
+
+**CAMERA:**
+Start: (00:49.00) | End: (00:50.00)
+Cut to black.
+
+--- SCRIPT END ---

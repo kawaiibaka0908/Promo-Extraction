@@ -1,0 +1,62 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Trapped in the service corridor by Marcus's guards, Maya is rescued by mysterious board chairman Julian Vance, who offers her the power to bankrupt Marcus tonight.
+CONTINUITY NOTES: Follows immediately from Episode 1 gala confrontation. Introduces Julian Vance as Marcus's rival.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. PENTHOUSE SERVICE CORRIDOR – NIGHT
+Scene start: 00:00.00
+Scene end: 00:48.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:02.80)
+Handheld medium shot as the Chief Guard twists Maya’s wrist to snatch the wedding ring chain.
+
+**MAYA (Screaming, Fierce):**
+Start: (00:02.80) | End: (00:06.00)
+“Touch my son’s ring again and I’ll scream until every reporter upstairs hears me!”
+
+**ACTION:**
+Start: (00:06.00) | End: (00:10.00)
+The guard raises his baton to strike Maya, but a cane hooks his wrist mid-air and slams him against the wall.
+
+**JULIAN (Commanding, Chilling):**
+Start: (00:10.00) | End: (00:14.50)
+“Raise a hand to her again and you’ll never work in this city.”
+
+**CAMERA:**
+Start: (00:14.50) | End: (00:19.00)
+Low-angle push-in on Julian Vance stepping out of the private elevator in a bespoke charcoal suit.
+
+**MAYA (Breathless, Guarded):**
+Start: (00:19.00) | End: (00:23.00)
+“Who are you? Another one of Marcus’s billionaire friends?”
+
+**JULIAN (Smug, Intense):**
+Start: (00:23.00) | End: (00:29.00)
+“I’m Julian Vance—the man who owns fifty-one percent of the company your husband stole from you.”
+
+**ACTION:**
+Start: (00:29.00) | End: (00:34.00)
+Julian opens a leather folder revealing Maya’s forged death certificate signed in Marcus’s handwriting.
+
+**MAYA (Shocked, Trembling):**
+Start: (00:34.00) | End: (00:39.00)
+“He didn’t fake his death… he legally declared *me* dead so he could take our child!”
+
+**JULIAN (Urgent, Fierce):**
+Start: (00:39.00) | End: (00:45.00)
+“Sign my proxy right now, Maya, and we walk back into that ballroom as his new bosses.”
+
+**SOUND FX:**
+Start: (00:45.00) | End: (00:47.50)
+Deep bass drop swells into a suspenseful cliffhanger peak.
+
+**CAMERA:**
+Start: (00:47.50) | End: (00:48.00)
+Cut to black.
+
+--- SCRIPT END ---

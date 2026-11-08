@@ -1,0 +1,70 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Waitress Maya delivers a wedding cake to the penthouse gala, only to discover the groom is her supposedly dead husband Marcus marrying her ruthless boss Victoria.
+CONTINUITY NOTES: Series premiere. Establishes Maya's shock when her presumed-dead husband Marcus appears alive as a tech billionaire engaged to Victoria.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. PENTHOUSE BALLROOM – NIGHT
+Scene start: 00:00.00
+Scene end: 00:52.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Tracking shot following Maya pushing a tiered crystal cake cart through gilded double doors.
+
+**VICTORIA (Arrogant, Mocking):**
+Start: (00:03.00) | End: (00:06.50)
+“Leave the cake by the stage, waitress, and don’t dare look at the guests.”
+
+**CAMERA:**
+Start: (00:06.50) | End: (00:09.50)
+Close-up on Maya looking up toward the champagne toast on stage as her breath catches in horror.
+
+**ACTION:**
+Start: (00:09.50) | End: (00:13.00)
+Maya drops the silver cake server with a loud clatter as Marcus turns around in a tailored tuxedo.
+
+**MAYA (Horrified, Whispering):**
+Start: (00:13.00) | End: (00:16.00)
+“Marcus? You died in the crash three years ago!”
+
+**MARCUS (Cold, Unflinching):**
+Start: (00:16.00) | End: (00:20.50)
+“I think you have me confused with someone who mattered.”
+
+**VICTORIA (Cruel, Laughing):**
+Start: (00:20.50) | End: (00:25.00)
+“Is this pathetic kitchen girl claiming she knows my fiancé?”
+
+**ACTION:**
+Start: (00:25.00) | End: (00:29.00)
+Victoria shoves the tiered cake straight onto Maya’s uniform, smearing frosting across her chest.
+
+**MAYA (Furious, Defiant):**
+Start: (00:29.00) | End: (00:34.00)
+“Check the scar behind his left ear, Victoria—or ask him who holds the patent to his company!”
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:38.50)
+Tight close-up on Marcus’s jaw clenching as the ballroom erupts into shocked whispers.
+
+**MARCUS (Low, Threatening):**
+Start: (00:38.50) | End: (00:43.00)
+“Security! Lock her in the service elevator before she says another word!”
+
+**ACTION:**
+Start: (00:43.00) | End: (00:48.00)
+Two guards grab Maya’s arms as she pulls a gold wedding band on a chain from beneath her collar.
+
+**SOUND FX:**
+Start: (00:48.00) | End: (00:51.00)
+Sharp metallic sting swells to an ominous cliffhanger peak.
+
+**CAMERA:**
+Start: (00:51.00) | End: (00:52.00)
+Cut to black.
+
+--- SCRIPT END ---
